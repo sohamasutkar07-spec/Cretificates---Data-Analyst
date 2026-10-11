@@ -4,25 +4,23 @@ A curated collection of my verified certificates and analytics learning credenti
 
 ## Certifications
 
-> **Certificate files:** The certificate details and upload instructions are committed. The three PDF files still need to be uploaded into the `certificates/` folder. Download the prepared upload ZIP, extract it, and upload the three PDFs with the exact filenames listed below; then the certificate links will work.
-
 ### 1. Databricks Certified Associate Developer for Apache Spark 3.0
 - **Issuer:** Databricks Academy
 - **Issued:** 27 March 2026
 - **Expires:** 27 March 2029
-- **Certificate:** [Open certificate PDF](certificates/databricks-certified-associate-developer-spark-3.0.pdf)
+- **Certificate:** [Open certificate PDF](certificates/Soham%20Asutkar%20%282%29.pdf)
 
 ### 2. Post Graduate Program in Data Science and Analytics
 - **Issuer:** FutureSkills Prime / NASSCOM IT-ITeS Sector Skills Council
 - **Issued:** 3 April 2026
 - **Result:** Silver category; 64% assessment score
-- **Certificate:** [Open certificate PDF](certificates/post-graduate-program-data-science-analytics-nasscom.pdf)
+- **Certificate:** [Open certificate PDF](certificates/Soham%20Asutkar%20Nasscom%20certificate%20%281%29.pdf)
 
 ### 3. GenAI Powered Data Analytics Job Simulation
 - **Provider:** Forage — Tata
 - **Completed:** 10 October 2026
 - **Topics shown on certificate:** Exploratory data analysis and risk profiling; predicting delinquency with AI; business reporting and data storytelling for collections strategy; implementing an AI-driven collections strategy.
-- **Certificate:** [Open certificate PDF](certificates/genai-powered-data-analytics-job-simulation-forage.pdf)
+- **Certificate:** [Open certificate PDF](certificates/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_692c754a1f46544a0e83c914_1791615661906_completion_certificate.pdf)
 
 ## Related portfolio projects
 
