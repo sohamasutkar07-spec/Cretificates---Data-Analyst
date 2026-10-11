@@ -4,6 +4,8 @@ A curated collection of my verified certificates and analytics learning credenti
 
 ## Certifications
 
+> **Certificate files:** The certificate details and upload instructions are committed. The three PDF files still need to be uploaded into the `certificates/` folder. Download the prepared upload ZIP, extract it, and upload the three PDFs with the exact filenames listed below; then the certificate links will work.
+
 ### 1. Databricks Certified Associate Developer for Apache Spark 3.0
 - **Issuer:** Databricks Academy
 - **Issued:** 27 March 2026
