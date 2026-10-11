@@ -8,8 +8,8 @@
 
 ## Certificate PDFs
 
-- [Databricks certificate](certificates/databricks-certified-associate-developer-spark-3.0.pdf)
-- [NASSCOM / FutureSkills Prime certificate](certificates/post-graduate-program-data-science-analytics-nasscom.pdf)
-- [Forage GenAI job simulation certificate](certificates/genai-powered-data-analytics-job-simulation-forage.pdf)
+- [Databricks certificate](certificates/Soham%20Asutkar%20%282%29.pdf)
+- [NASSCOM / FutureSkills Prime certificate](certificates/Soham%20Asutkar%20Nasscom%20certificate%20%281%29.pdf)
+- [Forage GenAI job simulation certificate](certificates/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_692c754a1f46544a0e83c914_1791615661906_completion_certificate.pdf)
 
 These details are transcribed from the certificate documents provided for the portfolio. Dates follow the format visible on the documents; the NASSCOM certificate prints its issue date as `03/04/2026`, interpreted here as 3 April 2026.
